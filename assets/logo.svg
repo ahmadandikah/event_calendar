@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="48" viewBox="0 0 240 48">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2563EB"/><stop offset="1" stop-color="#60A5FA"/></linearGradient></defs>
+  <rect x="2" y="4" width="40" height="40" rx="10" fill="url(#g)"/>
+  <rect x="11" y="14" width="22" height="20" rx="3" fill="none" stroke="#fff" stroke-width="2.4"/>
+  <path d="M11 20h22M17 11v6M27 11v6" stroke="#fff" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="22" cy="27" r="2.4" fill="#fff"/>
+  <text x="52" y="22" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF">Kalender Panitia</text>
+  <text x="52" y="39" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11" fill="#94A3B8">Booking kegiatan online</text>
+</svg>
